@@ -40,6 +40,8 @@ See [ARCHITECTURE.md](ARCHITECTURE.md) for a comprehensive overview of the syste
 
 ## Development Guidelines
 
+For detailed development workflows, debugging techniques, and common tasks, see **[Development Workflows](docs/DEVELOPMENT.md)**.
+
 ### Code Style
 
 **TypeScript (Server)**:

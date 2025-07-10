@@ -305,6 +305,7 @@ OpenCode is designed for extensibility:
 For more detailed information about specific components, see:
 - **[API Architecture](docs/API.md)** - Detailed API design and communication patterns
 - **[Deployment Guide](docs/DEPLOYMENT.md)** - Production deployment and infrastructure
+- **[Development Workflows](docs/DEVELOPMENT.md)** - Common development tasks and debugging
 - **[Server Development](packages/opencode/README.md)** - Server-side development guide
 - **[TUI Development](packages/tui/AGENTS.md)** - TUI client development guide
 - **[Contributing Guidelines](CONTRIBUTING.md)** - How to contribute to the project
