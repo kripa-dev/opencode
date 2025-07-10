@@ -34,23 +34,23 @@ paru -S opencode-bin               # Arch Linux
 
 ### Documentation
 
-For more info on how to configure opencode [**head over to our docs**](https://opencode.ai/docs).
+- **[Architecture Overview](ARCHITECTURE.md)** - System design and technical architecture
+- **[Contributing Guide](CONTRIBUTING.md)** - Development setup and contribution guidelines
+- **[Configuration Guide](https://opencode.ai/docs)** - Usage and configuration documentation
 
 ### Contributing
+
+**[See CONTRIBUTING.md](CONTRIBUTING.md)** for detailed development setup and guidelines.
 
 For any new features we'd appreciate it if you could open an issue first to discuss what you'd like to implement. We're pretty responsive there and it'll save you from working on something that we don't end up using. No need to do this for simpler fixes.
 
 > **Note**: Please talk to us via github issues before spending time working on
 > a new feature
 
-To run opencode locally you need.
-
-- Bun
-- Golang 1.24.x
-
-And run.
+**Quick Start:**
 
 ```bash
+# Prerequisites: Bun + Go 1.24.x
 $ bun install
 $ bun run packages/opencode/src/index.ts
 ```
